@@ -13,7 +13,7 @@ Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer 
 
 ## See it in action
 
-**A battle**
+**starting up**
 
 ![Critical Check gameplay](docs/gameplay1.gif)
 
