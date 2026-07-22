@@ -21,7 +21,7 @@ Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer 
 
 ![Critical Check gameplay](docs/gameplay1.gif)
 
-**Online multiplayer — phone vs PC**
+**Online multiplayer **
 
 ![An online multiplayer match](docs/online.gif)
 
