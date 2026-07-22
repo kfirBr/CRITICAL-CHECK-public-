@@ -2,7 +2,6 @@
 # A chess rouge-like in the style of old CRT TV technology.
 #
 # in branches:  main-.exe file you can run on your pc, no godot neded, unzip and double click CRITICALCHECK.exe downloadable, And downloadable .apk for android phones.
-#              master- original game files pushed to github.
 #
 #
 #
