@@ -27,7 +27,7 @@ Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer 
 
 ![Drafting upgrades in the shop](docs/shop.gif)
 
-**Online multiplayer — phone vs PC**
+**Online multiplayer **
 
 ![An online multiplayer match](docs/online.gif)
 
