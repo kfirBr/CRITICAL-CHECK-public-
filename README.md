@@ -13,19 +13,13 @@ Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer 
 
 ## See it in action
 
-<!--
-  Record a short clip for each (5-15s), convert to .gif (e.g. ezgif.com or ffmpeg),
-  and save them in a docs/ folder as: docs/battle.gif, docs/shop.gif, docs/online.gif
-  GitHub autoplays and loops GIFs right here. Keep each under ~5-10 MB.
--->
-
 **A battle**
 
 ![A battle in Critical Check](docs/battle.gif)
 
-**Drafting upgrades between fights**
+**A run in progress**
 
-![Drafting upgrades in the shop](docs/shop.gif)
+![Critical Check gameplay](docs/gameplay1.gif)
 
 **Online multiplayer — phone vs PC**
 
@@ -39,8 +33,8 @@ No setup or account needed — grab the latest build and play:
 
 | Platform | Download |
 |---|---|
-| **Windows** | **[Download (.zip)](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICALCHECK.zip)** — unzip and run `CRITICAL CHECK.exe` |
-| **Android** | **[Download (.apk)](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICAL%20CHECK.apk)** — open the file and allow the install |
+| **Windows** | **[Download (.zip)](https://github.com/kfirBr/CRITICAL-CHECK-public-/raw/main/CRITICALCHECK.zip)** — unzip and run `CRITICAL CHECK.exe` |
+| **Android** | **[Download (.apk)](https://github.com/kfirBr/CRITICAL-CHECK-public-/raw/main/CRITICAL%20CHECK.apk)** — open the file and allow the install |
 
 **Online multiplayer works out of the box** — the game connects to its live server automatically, so just pick a point bracket and you'll be matched with another player, phone or PC.
 
