@@ -39,8 +39,8 @@ No setup or account needed — grab the latest build and play:
 
 | Platform | Download |
 |---|---|
-| **Windows** | **[Download (.zip)](https://github.com/kfirBr/critical-check/releases/latest)** — unzip and run `CRITICAL CHECK.exe` |
-| **Android** | **[Download (.apk)](https://github.com/kfirBr/critical-check/releases/latest)** — open the file and allow the install |
+| **Windows** | **[Download (.zip)]([https://github.com/kfirBr/critical-check/releases/latest](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICALCHECK.zip))** — unzip and run `CRITICAL CHECK.exe` |
+| **Android** | **[Download (.apk)]([https://github.com/kfirBr/critical-check/releases/latest](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICAL%20CHECK.apk))** — open the file and allow the install |
 
 *Also available on [itch.io](https://YOUR-USERNAME.itch.io/critical-check).*
 
