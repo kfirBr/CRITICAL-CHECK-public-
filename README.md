@@ -15,11 +15,11 @@ Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer 
 
 **A battle**
 
-![A battle in Critical Check](docs/battle.gif)
+![Critical Check gameplay](docs/gameplay1.gif)
 
 **A run in progress**
 
-![Critical Check gameplay](docs/gameplay1.gif)
+![A battle in Critical Check](docs/battle.gif)
 
 **Online multiplayer **
 
