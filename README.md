@@ -39,8 +39,8 @@ No setup or account needed — grab the latest build and play:
 
 | Platform | Download |
 |---|---|
-| **Windows** | **[Download (.zip)]([https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICALCHECK.zip])** — unzip and run `CRITICAL CHECK.exe` |
-| **Android** | **[Download (.apk)]([https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICAL%20CHECK.apk])** — open the file and allow the install |
+| **Windows** | **[Download (.zip)](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICALCHECK.zip)** — unzip and run `CRITICAL CHECK.exe` |
+| **Android** | **[Download (.apk)](https://github.com/kfirBr/CRITICAL-CHECK-public-/blob/main/CRITICAL%20CHECK.apk)** — open the file and allow the install |
 
 **Online multiplayer works out of the box** — the game connects to its live server automatically, so just pick a point bracket and you'll be matched with another player, phone or PC.
 
