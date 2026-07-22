@@ -1,6 +1,6 @@
 # Critical Check ♟️
 
-A **roguelike tactical chess battler** with **real-time online multiplayer**. Chess pieces keep their classic movement patterns, but instead of instant capture they have **HP, armor, and classes** — so every battle is a small tactics puzzle. Build an army across short, escalating runs (à la *Balatro*), draft upgrades between fights, and take your build online against other players across **mobile and PC**.
+A **roguelike tactical chess battler** with **real-time online multiplayer**. Chess pieces keep their classic movement patterns, but instead of instant capture they have **HP, armor, and classes** — so every battle is a small tactics puzzle. Build an army across short, escalating runs, draft upgrades between fights, and take your build online against other players across **mobile and PC**.
 
 Built **solo** in **Godot 4 / GDScript**, with a custom **Node.js** multiplayer backend deployed on **AWS**.
 
